@@ -12,7 +12,7 @@ El reto consiste en replicar el newsfeed de **Twitter**, este será el resultado
 
 * [Web original del proyecto.](https://twitter.com/)
 
-![Newsfeed Twitter](assets/images/giphy.gif)
+![Newsfeed Twitter](https://media.giphy.com/media/3ov9jP4RIGQCUQOScg/giphy.gif)
 
 ## Consideraciones:
 
