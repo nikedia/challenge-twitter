@@ -157,13 +157,19 @@ main {
 
 /*showComment style */
 #showTwit {
-    /* outline: 1px solid red; */
-    transform: translateY(130%);
-    width: 300px;
-    display: block;
-    color: #2f80ed;
-    /* overflow: hidden; */
-    word-wrap: break-word;
-    border-radius: 5px;
-    background: #fff;
+	transform: translateY(130%);
+	width: 300px;
+	display: block;
+	color: #2f80ed;
+	/* overflow: hidden; */
+	word-wrap: break-word;
+	border-radius: 5px;
+	background: #fff;
+}
+
+.tweets-container div {
+	outline: 1px solid red;
+	background-color: #FAFAFA;
+	margin: 10px 5px;
+	padding: 15px 20px;
 }
